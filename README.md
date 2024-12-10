@@ -29,15 +29,15 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
-- [Live site URL](https://your-live-site-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/meet-landing-page---html-scss-5lXdBPEmbw)
+- [Live site URL](https://jeremdevx.github.io/fm-challenge-meet-landing-page/)
 
 ## My process
 
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
+- SCSS
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
